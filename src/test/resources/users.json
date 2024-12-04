@@ -1,0 +1,58 @@
+[
+  {
+    "lastName": "Christiansen",
+    "firstname": "Jacinta",
+    "password": "@Jacinta#36",
+    "employeeID": "463",
+    "userName": "jacinta-christiansen"
+  },
+  {
+    "lastName": "Prohaska",
+    "firstname": "Marybelle",
+    "password": "@Marybelle#22",
+    "employeeID": "486",
+    "userName": "marybelle-prohaska"
+  },
+  {
+    "lastName": "Morar",
+    "firstname": "Clemmie",
+    "password": "@Clemmie#8",
+    "employeeID": "446",
+    "userName": "clemmie-morar"
+  },
+  {
+    "lastName": "Labadie",
+    "firstname": "Terrell",
+    "password": "@Terrell#68",
+    "employeeID": "340",
+    "userName": "terrell-labadie"
+  },
+  {
+    "lastName": "Smitham",
+    "firstname": "Harrison",
+    "password": "@Harrison#31",
+    "employeeID": "376",
+    "userName": "harrison-smitham"
+  },
+  {
+    "lastName": "Adams",
+    "firstname": "Celeste",
+    "password": "@Celeste#28",
+    "employeeID": "476",
+    "userName": "celeste-adams"
+  },
+  {
+    "lastName": "Hermiston",
+    "firstname": "Jeffrey",
+    "password": "@Jeffrey#94",
+    "employeeID": "427",
+    "userName": "jeffrey-hermiston"
+  },
+  {
+    "lastName": "Bailey",
+    "firstname": "Kirk",
+    "password": "@Kirk#21",
+    "employeeID": "391",
+    "userName": "kirk-bailey"
+  }
+]

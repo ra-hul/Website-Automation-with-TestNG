@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Orange HRM Live">
+    <test name="Admin can Log in and Log out">
+        <classes>
+            <class name="testrunners.LoginAdminTestRunner"></class>
+        </classes>
+    </test>
+    <test name="Admin can create employees">
+        <classes>
+            <class name= "testrunners.PIMTestRunner"></class>
+        </classes>
+    </test>
+
+    <test name="Searches an employee in Directory page">
+        <classes>
+            <class name="testrunners.DirectoryTestRunner"></class>
+        </classes>
+    </test>
+
+    <test name="Employees can login">
+        <classes>
+            <class name="testrunners.EmployeeLoginTestRunner"></class>
+        </classes>
+    </test>
+
+    <test name="Employees edit or select their personal details">
+        <classes>
+            <class name="testrunners.MyInfoTestRunner"></class>
+        </classes>
+    </test>
+
+
+</suite>
